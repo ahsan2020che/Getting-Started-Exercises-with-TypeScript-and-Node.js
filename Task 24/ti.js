@@ -1,0 +1,16 @@
+var Z = 'HELLO';
+var ji = 45;
+var ui = 56;
+var up = 40;
+var t = 40;
+var wi = [12, 3, 4, , 5, 6, 7];
+console.log('Is a==Hello');
+console.log(Z == 'Hello');
+console.log(Z.toLowerCase() == 'hello');
+console.log(ji == t);
+console.log(ui >= up);
+console.log(up <= t);
+console.log(ui < up && ui > 10);
+console.log(t > 20 || ui < up);
+console.log(wi.includes(2));
+console.log(!(wi.includes(4)));
